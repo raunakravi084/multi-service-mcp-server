@@ -1,0 +1,12 @@
+{
+  "google": {
+    "spreadsheetId": "your-google-sheet-id",
+    "calendarId": "primary"
+  },
+  "database": {
+    "url": "postgresql://username:password@host:5432/database_name?sslmode=require"
+  },
+  "mongodb": {
+    "uri": "mongodb+srv://username:password@cluster.mongodb.net/?retryWrites=true&w=majority"
+  }
+}
