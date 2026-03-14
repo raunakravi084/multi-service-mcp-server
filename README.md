@@ -9,7 +9,7 @@ MCP (Model Context Protocol) server for Claude Desktop that provides access to G
   - **Google Sheets (4 tools)**: Read, write, append, and get sheet info
   - **Gmail (4 tools)**: List, search, get details, and send emails
   - **Google Calendar (5 tools)**: List, create, update, delete, and get event details
-  - **PostgreSQL MCP server**
+- **PostgreSQL MCP server**
   - Run read/write SQL queries
   - List tables, describe schema, count rows
 - **MongoDB MCP server**
